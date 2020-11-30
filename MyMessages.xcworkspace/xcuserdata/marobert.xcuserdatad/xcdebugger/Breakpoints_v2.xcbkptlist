@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "368E21A5-A970-430E-B93F-529181A5933B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1194DF67-CF13-47D3-8313-4FE80B678738"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/AzureCommunicationChat/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "588"
+            endingLineNumber = "588"
+            landmarkName = "listChatMessages(chatThreadId:withOptions:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1194DF67-CF13-47D3-8313-4FE80B678738 - 171b314a992514ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Foundation.Data&gt;, AzureCore.AzureError&gt;, Swift.Optional&lt;AzureCore.HTTPResponse&gt;) -&gt; () in AzureCommunicationChat.AzureCommunicationChatService.listChatMessages(chatThreadId: Swift.String, withOptions: Swift.Optional&lt;AzureCommunicationChat.AzureCommunicationChatService.ListChatMessagesOptions&gt;, completionHandler: (Swift.Result&lt;AzureCore.PagedCollection&lt;AzureCommunicationChat.ChatMessage&gt;, AzureCore.AzureError&gt;, Swift.Optional&lt;AzureCore.HTTPResponse&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AzureCommunicationChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marobert/spool/MyMessages/Pods/AzureCommunicationChat/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "588"
+                  endingLineNumber = "588"
+                  offsetFromSymbolStart = "2993">
+               </Location>
+               <Location
+                  uuid = "1194DF67-CF13-47D3-8313-4FE80B678738 - 9830e2440d23b5be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Result&lt;Swift.Optional&lt;Foundation.Data&gt;, AzureCore.AzureError&gt;, Swift.Optional&lt;AzureCore.HTTPResponse&gt;) -&gt; () in AzureCommunicationChat.AzureCommunicationChatService.listChatMessages(chatThreadId: Swift.String, withOptions: Swift.Optional&lt;AzureCommunicationChat.AzureCommunicationChatService.ListChatMessagesOptions&gt;, completionHandler: (Swift.Result&lt;AzureCore.PagedCollection&lt;AzureCommunicationChat.ChatMessage&gt;, AzureCore.AzureError&gt;, Swift.Optional&lt;AzureCore.HTTPResponse&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AzureCommunicationChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marobert/spool/MyMessages/Pods/AzureCommunicationChat/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "589"
+                  endingLineNumber = "589"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
